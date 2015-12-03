@@ -114,6 +114,7 @@ if (state==1){
        }
      treasureX=floor (random(600));
      treasureY=floor (random(440));
+     //
   }
   }
   // hp 
